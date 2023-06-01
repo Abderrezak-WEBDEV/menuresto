@@ -22,7 +22,7 @@ const Navba = () => {
               className="mx-2"
              
             />
-            <Button variant="outline-success" className='btn-search'>Recherche</Button>
+            <Button variant="outline-primary" className='btn-search'>Recherche</Button>
           </Form>
         </Navbar.Collapse>
       </Container>
